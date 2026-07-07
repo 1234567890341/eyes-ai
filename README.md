@@ -1,4 +1,4 @@
-# AICORE
+# Eyes-Network
 
 A Python library for creating neural networks that includes neural network creation and a tokenizer.
 
@@ -14,7 +14,7 @@ eyes-studio is a small, unofficial software development company with a very smal
 
 ## About
 
-AICORE is a python library for easily creating neural networks and small text-based AIs
+Eyes-Network is a python library for easily creating neural networks and small text-based AIs
 
 This library allows developers to easily create AI models using just a few commands and to tokenize text for AI.
 
